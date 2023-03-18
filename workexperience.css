@@ -1,0 +1,100 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+}  
+
+
+body .a-a img{
+    height: 170vh;
+    width: 100%;
+}
+.top1-{
+    position: absolute;
+    top: 7%;
+    left: 80px;
+    
+}
+.top1- h1{
+    color: aqua;
+    font-size: 45px;
+}
+.top1- span{
+    color: azure;
+}
+.emp1-{
+    position: absolute;
+    top: 20%;
+    left: 230px;
+    color: aliceblue;
+    margin: 30px; 
+    width: 77%;
+    background-color: rgb(30, 5, 70);
+}
+.emp1- .jb- {
+    height: 150px;
+    width: 350px;
+    position: absolute;
+    left: 62%;
+}
+.emp1- .sk {
+    height: 310px;
+    width: 595px;
+    position: absolute;
+    left: 30%;
+    top: 61%;
+}
+.emp1- .worexp1-{
+    margin-left: 30px;
+    margin-top: 50px;
+    font-size: 24px;
+    font-style: bold;
+    font-weight: 800;
+    color: rgb(247, 241, 241);
+}
+.emp1- .worexp1- p{
+margin-left: 15px;
+}
+.emp1- .worexp1- h3{
+    
+    font-size: 50px;
+    margin-bottom: 5px;
+    color: rgb(217, 178, 106);
+}
+.emp1- .intn1- h3{
+    font-size: 50px;
+    margin-bottom: 5px;
+    color: rgb(217, 178, 106);
+}
+.emp1- .intn1- p{
+    margin-left: 15px;
+}
+.emp1- .intn1-{
+    margin-left: 30px;
+    margin-top: 20px;
+    font-size: 24px;
+    font-style: bold;
+    font-weight: 800;
+    color: rgb(247, 241, 241);
+    
+}
+.emp1- .intn1- p span{
+    color: rgb(36, 172, 172);
+}
+.emp1- .skl1-{
+    margin-left: 30px;
+    margin-top: 20px;
+    font-size: 24px;
+    font-style: bold;
+    font-weight: 800;
+    color: rgb(247, 241, 241);
+}
+.emp1- .skl1- h3{
+    font-size: 50px;
+    margin-bottom: 5px;
+    color: rgb(217, 178, 106);
+}
+.emp1- .skl1- ul{
+    margin-left: 15px;
+    list-style: none;
+}    
