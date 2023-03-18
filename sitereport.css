@@ -1,0 +1,11 @@
+*{
+    list-style: none;
+    font-family: 'Roboto', sans-serif;
+    padding: 0%;
+    margin: 0;
+    box-sizing: border-box;
+} 
+body .a-a img{
+    height: 200vh;
+    width: 100%;
+}
